@@ -1,1 +1,2 @@
 # Instagram_User_Analytics
+Here we are doing Instagram product users database analysis to help marketing and investor metric department. We find 5 oldest users, inactive users who have not posted a single photo, photo with maximum likes, top 5 trending hashtags ,most suitable day in a week to launch ad campaign for marketing team. For Investor metrics ,we find user engagement to see an count of posts an average user post on Instagram and to check if there are any bot or fake accounts.
